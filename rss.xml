@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Humans In Algorithm]]></title>
+        <description><![CDATA[Humans In Algorithm]]></description>
+        <link>http://humansinalgorithm.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 May 2017 21:29:21 GMT</lastBuildDate>
+        <atom:link href="http://humansinalgorithm.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Humans In Algorithm]]></title>
+            <description><![CDATA[<article><h1>Humans In Algorithm</h1><p>I will describe more next time, but I&apos;ll give a hint to foreshadow why this is so important: I personally came to this conclusion, that we are humans in algorithm, some time before the significance of it dawned on me.</p><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/aeab44404f1c962c4acc11b7e73b7084/passthrough.jpg?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbde3b33c-dfb8-4bb6-b42d-cc77eea6f30a.jpg&width=1440"></article>]]></description>
+            <link>http://chriscarlson.me/humans-in-algorithm</link>
+            <guid isPermaLink="false">2d6dd6c3-9900-4a6a-aca9-721c6d2a02e9</guid>
+            <pubDate>Fri, 12 May 2017 21:29:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
