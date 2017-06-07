@@ -1,0 +1,78 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.4263250310905278
+  lightness: 0.6548660339321941
+  saturation: 0.26923887548036873
+  rhythmicContrast: 0.32627977011725307
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: humansinalgorithm.com
+layout_spectrum: 0.7497297273948789
+typography_spectrum: 0.6901469512376934
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3de48c2e-43ca-4668-969a-4c19248441dd.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3de48c2e-43ca-4668-969a-4c19248441dd.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64cd94b3-5ac2-4cae-9631-ad00da89369c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/64cd94b3-5ac2-4cae-9631-ad00da89369c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Humans In Algorithm
+description: Thinking About Algorithms for Humans
+github: true
+url: 'http://humansinalgorithm.com'
+author:
+  name: Chris C.
+  email: chris@cta.cloud
+  url: 'http://chriscarlson.me'
