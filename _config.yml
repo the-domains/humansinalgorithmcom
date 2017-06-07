@@ -69,7 +69,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: Humans In Algorithm
-description: Thinking About Algorithms for Humans
+description: Algorithms for Humans
 github: true
 url: 'http://humansinalgorithm.com'
 author:
